@@ -99,6 +99,115 @@ h2{
       background-color: #3C3D37;
       text-align: center;
 }
+@media (max-width: 480px){
+         body{
+           margin: 0;
+           background-color: #ECDFCC;
+         }
+        .contianer{
+           background-image: url(annie-spratt-xTaOPMa6wAE-unsplash.jpg); 
+           margin-bottom: 0px;
+        }  
+        .contianer2{
+            margin-top: 0px;
+            background-color: #3C3D37;
+            
+        }
+        #p1{
+          font-family: "Raleway", sans-serif;
+          font-optical-sizing: auto;
+           font-weight: bold;
+           font-style: normal;
+           padding-top: 150px;
+            font-size: 45px;
+            color: #33372C;
+            text-align: left;
+        }  
+        #propic{
+            border-radius: 50%;
+            margin-left:20px;
+            margin-top: 50px;
+            float: left;
+            height: 100px;  
+        }
+        #p2{
+            font-family: "Raleway", sans-serif;
+          font-optical-sizing: auto;
+           font-weight: bold;
+           font-style: normal;
+            font-size: 15px;
+            color: #697565;
+            text-align: left;
+        }
+        div>#p3{
+            font-family: "Raleway", sans-serif;
+            font-optical-sizing: auto;
+             font-weight: bold;
+             font-style: normal;
+             padding-top: 150px;
+              padding-left: 100px;
+              padding-bottom: 50px;
+              font-size: 50px;
+              color: #33372C;
+        }
+        #p4{
+            font-family: "Raleway", sans-serif;
+          font-optical-sizing: auto;
+           font-weight: bold;
+           font-style: normal;
+           padding-top: 50px;
+            padding-left: 100px;
+            padding-bottom: 50px;
+            font-size: 35px;
+            color: #697565;
+            background-color: #3C3D37;
+        }
+        #p5{
+            font-family: "Raleway", sans-serif;
+            font-optical-sizing: auto;
+             font-weight: bold;
+             font-style: normal;
+             padding-top: 150px;
+              padding-left: 100px;
+              padding-bottom: 50px;
+              font-size: 50px;
+              color: #33372C;
+        }
+        #slidediv{
+            padding-bottom: 10px;
+        }
+        h2{
+            font-family: "Raleway", sans-serif;
+          font-optical-sizing: auto;
+           font-weight: bold;
+           font-style: normal;
+           padding-top: 150px;
+            padding-left: 100px;
+            padding-bottom: 100px;
+            font-size: 50px;
+            color: #33372C;
+            text-align: left;
+        }
+        #p6{
+            font-family: "Raleway", sans-serif;
+            font-optical-sizing: auto;
+             font-weight: bold;
+             font-style: normal;
+             padding-top: 50px;
+              padding-left: 100px;
+              padding-bottom: 50px;
+              font-size: 20px;
+              color: #697565;
+              background-color: #3C3D37;
+              text-align: left;
+        }
+        a{
+            
+            color: #697565;
+            text-decoration: none;
+        }
+       
+}
 a{
     color: #697565;
     text-decoration: none;
