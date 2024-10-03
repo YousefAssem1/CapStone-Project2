@@ -1,14 +1,9 @@
-.gradient-background {
-    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
-    background-size: 180% 180%;
-    animation: gradient-animation 18s ease infinite;
-  }
- body{
+body{
    margin: 0;
    background-color: #ECDFCC;
  }
 .contianer{
-   background-image: url(./images/annie-spratt-xTaOPMa6wAE-unsplash.jpg); 
+   background-image: url(./annie-spratt-xTaOPMa6wAE-unsplash.jpg); 
    margin-bottom: 0px;
 }  
 .contianer2{
