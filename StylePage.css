@@ -1,0 +1,110 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+ body{
+   margin: 0;
+   background-color: #ECDFCC;
+ }
+.contianer{
+   background-image: url(./images/annie-spratt-xTaOPMa6wAE-unsplash.jpg); 
+   margin-bottom: 0px;
+}  
+.contianer2{
+    margin-top: 0px;
+    background-color: #3C3D37;
+}
+#p1{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+   font-weight: bold;
+   font-style: normal;
+   padding-top: 150px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    font-size: 200px;
+    color: #33372C;
+}  
+#propic{
+    border-radius: 50%;
+    margin-left:200px;
+    float: left;   
+}
+#p2{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+   font-weight: bold;
+   font-style: normal;
+   padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    font-size: 35px;
+    color: #697565;
+}
+div>#p3{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+     font-weight: bold;
+     font-style: normal;
+     padding-top: 150px;
+      padding-left: 100px;
+      padding-bottom: 50px;
+      font-size: 150px;
+      color: #33372C;
+}
+#p4{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+   font-weight: bold;
+   font-style: normal;
+   padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    font-size: 35px;
+    color: #697565;
+    background-color: #3C3D37;
+}
+#p5{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+     font-weight: bold;
+     font-style: normal;
+     padding-top: 150px;
+      padding-left: 100px;
+      padding-bottom: 50px;
+      font-size: 150px;
+      color: #33372C;
+}
+#slidediv{
+    padding-bottom: 10px;
+}
+h2{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+   font-weight: bold;
+   font-style: normal;
+   padding-top: 150px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    font-size: 200px;
+    color: #33372C;
+    text-align: center;
+}
+#p6{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+     font-weight: bold;
+     font-style: normal;
+     padding-top: 50px;
+      padding-left: 100px;
+      padding-bottom: 50px;
+      font-size: 35px;
+      color: #697565;
+      background-color: #3C3D37;
+      text-align: center;
+}
+a{
+    color: #697565;
+    text-decoration: none;
+}
